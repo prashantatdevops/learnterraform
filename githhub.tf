@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "github" {
-  token = " ab97ffb6e6a7235aa79526a13be24e4e91afa198"
+  token = " Enter Your Credentials"
 }
 
 
